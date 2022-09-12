@@ -1,6 +1,9 @@
-# vuecamp-typescript-live-coding
+# TypeScript part 1
 
-This template should help get you started developing with Vue 3 in Vite.
+Example of simply typed Dropdown component and it's usage.
+
+Component - `@/components/Dropdown.vue`
+Usage - `@/App.vue`
 
 ## Recommended IDE Setup
 
